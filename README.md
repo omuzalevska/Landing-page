@@ -1,7 +1,9 @@
 
 ## Our team
-<img src="Images\img_Linkedin.png" alt="Example"> [ Volodymyr Yushkevich](www.linkedin.com)
-<img src="Images\img_Linkedin.png" alt="Example">[  Oksana Muzalevska](www.linkedin.com/in/oksana-muzalevska-bb1887154)
+<img src="Images\img_Linkedin.png" alt="Example"> [Volodymyr Yushkevich](www.linkedin.com)
+<img src="Images\img_Linkedin.png" alt="Example">[Oksana Muzalevska](www.linkedin.com/in/oksanamuzalevska)
+
+
 
 
 ---
