@@ -1,20 +1,48 @@
 header {
-    margin-bottom: 10px;
-    padding: 10px;
-    background-color: grey;
-    color: yellow;
-  }
-  
-  main {
-    margin-bottom: 10px;
-    padding: 10px;
-    height: 100%;
-    width: 100%;
-    background-color: green;
-    color: aquamarine;
-  }
-  
-  nav {
-    padding: 10px;
-    background-color: blue;
-  }
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: grey;
+  color: yellow;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+main {
+  margin-bottom: 10px;
+  padding: 10px;
+  height: 100%;
+  width: 100%;
+  background-color: green;
+  color: aquamarine;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+nav {
+  padding: 10px;
+  background-color: blue;
+}
+
+
+.content {
+  flex: 2;
+  margin-right: 20px;
+}
+
+.sidebar {
+  flex: 1;
+  background-color: #f4f4f4;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+footer {
+  margin-top: 20px;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
