@@ -25,9 +25,22 @@ nav {
 
 
 .content {
-  flex: 2;
-  margin-right: 20px;
+ /* flex: 2;
+margin-right: 20px;*/
+background-color: white;
+width: 35%;
+padding: 20px;
+border: 2px solid black;
+border-radius: 20px;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
 }
+
+.content:first-child { margin-right: 50px;
+}
+
 
 .sidebar {
   flex: 1;
@@ -45,4 +58,12 @@ footer {
   padding: 10px;
   font-family: Arial, sans-serif;
   line-height: 1.6;
+}
+img {
+  width: 200px;
+}
+
+.container {
+display: flex;
+justify-content: center;
 }
