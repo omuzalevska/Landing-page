@@ -25,8 +25,6 @@ nav {
 
 
 .content {
- /* flex: 2;
-margin-right: 20px;*/
 background-color: white;
 color: rgb(54, 47, 255);
 width: 35%;
@@ -60,6 +58,7 @@ footer {
   font-family: Arial, sans-serif;
   line-height: 1.6;
 }
+
 img {
   width: 200px;
 }
@@ -72,10 +71,29 @@ justify-content: center;
 input[type="submit"] {
   background-color: #4CAF50; 
   color: white; 
-  padding: 12px 20px; 
+  padding: 12px 18px; 
   border: none; 
   border-radius: 4px; 
   font-size: 16px; 
   margin-top: 15px;
+  cursor: pointer;
+  box-shadow: 0px 5px 10px grey;
 }
 
+button{
+  background-color: #4CAF50; 
+  color: white; 
+  padding: 12px 18px; 
+  border: none; 
+  border-radius: 4px; 
+  font-size: 16px; 
+  margin-top: 15px;
+  margin-left: 15px;
+ cursor: pointer;
+ box-shadow: 0px 5px 10px grey;
+}
+
+.container-button {
+  display: flex;
+  justify-content: center;
+  }
